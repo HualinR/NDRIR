@@ -15,6 +15,6 @@ Please use the code below to install the necessary packages.
 
 
 ## Citations
-This paper is under review, the paper and source code will be published later.
+This paper is under review, so the paper and source code will be published later.
 
 
