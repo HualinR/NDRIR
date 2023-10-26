@@ -5,16 +5,7 @@ The **audio examples** of the generated DRIRs convolved with sound sources are a
 
 The **trained networks** are available [**HERE**](https://drive.google.com/drive/folders/1SJwdrQNVXQqlzCEToFtaOJer-IyKo8jx?usp=sharing)
 
-## Requirements
-Please use the code below to install the necessary packages.
-
-## Evaluation
-
-
-## Training
-
-
 ## Citations
-This paper is under review, so the paper and source code will be published later.
+This paper is under review, so the paper will be published later.
 
 
